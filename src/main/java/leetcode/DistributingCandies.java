@@ -1,4 +1,4 @@
-package leetcode;
+package year2019.practice.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
